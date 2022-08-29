@@ -1,0 +1,4 @@
+boto3==1.20.46   
+credstash==1.17.1        
+python-dotenv==0.20.0
+requests==2.22.0
